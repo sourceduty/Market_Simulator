@@ -1,4 +1,4 @@
-![Market Simulator](https://github.com/sourceduty/Market_Simulator/assets/123030236/344658ac-3420-4982-ba06-b79a6477dde4)
+![Market Simulator](https://github.com/sourceduty/Market_Simulator/assets/123030236/8d0d1574-bc1b-4864-8c22-4a10c668913f)
 
 [Market Simulator](https://chatgpt.com/g/g-uX5Aupr1a-market-simulator) is a specialized tool developed to simulate various business markets, providing detailed insights and predictive analytics based on user-provided data. It interprets market dynamics, customer behavior, competition, and economic factors to help users understand potential outcomes and trends. By leveraging a step-by-step multiple-choice process, it guides users in refining their simulation requests, ensuring that the data and parameters used are precise and relevant. The Market Simulator can handle complex information and present it in an accessible format, making it easier for users to make informed decisions.
 
